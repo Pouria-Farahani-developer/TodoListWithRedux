@@ -2,7 +2,7 @@
 🏃‍♂️**Count your steps faster with Redux**
 <h3 align="center"> 📸 Gallery </h3>
 
-![counter](https://github.com/Pouria-Farahani-developer/CounterAppWithRedux/assets/109727844/8d15299f-5792-4b56-948e-4d452c2e151c)
+![todo](https://github.com/Pouria-Farahani-developer/TodoListWithRedux/assets/109727844/adf78477-ba5d-4545-b4c7-f59d6b675a1f)
 
 - 🔗 [Demo Project](https://pouria-farahani-developer.github.io/TodoListWithRedux/)
 
