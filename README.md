@@ -4,7 +4,7 @@
 
 ![counter](https://github.com/Pouria-Farahani-developer/CounterAppWithRedux/assets/109727844/8d15299f-5792-4b56-948e-4d452c2e151c)
 
-- 🔗 [Demo Project](https://pouria-farahani-developer.github.io/CounterAppWithRedux/)
+- 🔗 [Demo Project](https://pouria-farahani-developer.github.io/TodoListWithRedux/)
 
 - 👨‍💻 Developed by pouria farahani
 
