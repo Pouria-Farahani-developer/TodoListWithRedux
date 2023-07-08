@@ -12,7 +12,7 @@
 
 - 👨‍💻 Developed by pouria farahani
 
-- 📆 Created - 2023-07-04
+- 📆 Created - 2023-07-08
 
 - 🤖 Technologies Used - Html , css , js , Redux
 
