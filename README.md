@@ -4,6 +4,9 @@
 
 ![todo](https://github.com/Pouria-Farahani-developer/TodoListWithRedux/assets/109727844/adf78477-ba5d-4545-b4c7-f59d6b675a1f)
 
+![2](https://github.com/Pouria-Farahani-developer/TodoListWithRedux/assets/109727844/60bfab46-d60e-4513-bb22-0d79db5f338a)
+
+
 - 🔗 [Demo Project](https://pouria-farahani-developer.github.io/TodoListWithRedux/)
 
 - 👨‍💻 Developed by pouria farahani
